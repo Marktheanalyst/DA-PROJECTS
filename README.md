@@ -8,6 +8,9 @@
 ###  Project Overview
 The objective of this project is to create a comprehensive and interactive dashboard to analyze drug sales data, providing key insights into sales performance, customer behavior, and product success.
 
+<img width="623" alt="DRUG SALES DASHBOARD OPEN FILTER PAGE" src="https://github.com/user-attachments/assets/d341e15f-7264-4c84-b12d-76259cdd7bea">
+
+
 ### Data Sources
 1. Fact Table: The Fact Table contains all the transactions of purchases made in the store. It includes detailed information on each transaction, providing a comprehensive dataset for analysis.
 2. Drug Lookup Table: The Drug Lookup Table contains detailed information about each drug available in the store. 
