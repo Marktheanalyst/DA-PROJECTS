@@ -3,8 +3,14 @@
 ## Table of Content
   - [Project Overview](#project-overview)
   - [Data Sources](#Data-Sources)
+  - [Tools](#tools)
+  - [Data Cleaning/Preparation](#data-cleaning/preparation)
+  - [Data Modelling](#data-modelling)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Data Analysis](#data-analysis)
   - [Results Findings](#results-findings)
-  - 
+  - [Conclusion](#conclusion)
+    
 ###  Project Overview
 The objective of this project is to create a comprehensive and interactive dashboard to analyze drug sales data, providing key insights into sales performance, customer behavior, and product success.
 
