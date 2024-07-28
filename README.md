@@ -1,6 +1,7 @@
 # Drug Sales Dashboard
 
 ## Table of Content
+---
   - [Project Overview](#project-overview)
   - [Data Sources](#Data-Sources)
   - [Tools](#tools)
@@ -12,6 +13,7 @@
   - [Conclusion](#conclusion)
     
 ###  Project Overview
+---
 The objective of this project is to create a comprehensive and interactive dashboard to analyze drug sales data, providing key insights into sales performance, customer behavior, and product success.
 
 <img width="623" alt="DRUG SALES DASHBOARD OPEN FILTER PAGE" src="https://github.com/user-attachments/assets/d341e15f-7264-4c84-b12d-76259cdd7bea">
@@ -42,11 +44,12 @@ The objective of this project is to create a comprehensive and interactive dashb
 
 ### Exploratory Data Analysis
 EDA involve exploring the sales data to answer key questions
-1. Overall Sales Metrics
+1. **Overall Sales Metrics**
 - Quantity sold, cost of goods sold (COGS), revenue, 
 profit, and profit margin with comparing current month 
 vs previous month
-2. Performance of Top and Bottom Drugs:
+
+2. **Performance of Top and Bottom Drugs:**
 - Identification of dynamic top drugs by Different 
 Measures and the percentage contributions
 - Overview of the Dynamic Top and underperforming
@@ -104,11 +107,11 @@ Dynamic Measure =
 
   ### Results Findings
 
-1.  Overall Sales Metrics:
+1.  **Overall Sales Metrics:**
 
 Track and compare key metrics such as quantity sold, cost of goods sold (COGS), revenue, profit, and profit margin for the current month vs. the previous month.
 
-2. Performance of Top and Bottom Drugs:
+2. **Performance of Top and Bottom Drugs:**
 
 - Top 5 Drugs Analysis:
   - The top 5 drugs generated 23.3% of the total revenue.
@@ -117,7 +120,8 @@ Track and compare key metrics such as quantity sold, cost of goods sold (COGS), 
 - Customer Performance:
    - 24.4% of the total revenue came from the top 5 customers.
    - David Johnson was the most performing customer with the highest revenue contribution.
-3. Sales Trends and Profit Margins:
+     
+3. **Sales Trends and Profit Margins:**
 
 - While sales in January generated the most revenue, the profit margins across different months were similar, indicating no significant difference in profitability throughout the year.
 
@@ -132,4 +136,8 @@ The drug sales dashboard offers a powerful tool for analyzing and visualizing sa
 
 With the top 5 drugs generating 23.3% of the revenue and the top 5 customers contributing 24.4% of the total revenue, the dashboard highlights the significance of these key players in the business. Furthermore, despite variations in monthly sales revenue, the consistent profit margins across months indicate stable profitability.
 
-  
+  ### References
+
+  😊
+
+  💻
